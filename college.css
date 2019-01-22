@@ -1,0 +1,57 @@
+p
+{
+	background: #00ffff;
+	word-spacing: 30px;
+	letter-spacing: 4px;
+	font-size:medium;
+	font-family: "Arial",Georgia,Times New Roman
+}
+body
+{
+	background-image: url("file:///C:/Users/Ariza/Downloads/fnctn+f21.png");
+	background-attachment: fixed;
+	background-size:100px 150px;
+	background-repeat: no-repeat;
+	background-position: top center;
+	font-weight: 700;
+	font-variant: small-caps;	 
+}
+ul
+{
+	list-style-image:url("file:///C:/Users/Ariza/Desktop/bullet.png");
+
+}
+ol
+{
+	list-style: lower-roman;
+}
+p.a
+{
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-indent: 10%;
+	font-size:small;
+}
+.a
+{
+	color:red;
+	text-decoration: overline;
+	text-transform: lowercase;
+	text-indent:2cm;
+}
+
+h2
+{
+	
+	text-align:right;
+	text-decoration: line-through;
+	text-transform: capitalize;
+	text-indent: 50px;
+}
+
+#id2
+{
+
+	color:blue;
+}
